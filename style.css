@@ -5,6 +5,7 @@
 body{
     background-color: #EEE;
     font-family: 'Roboto', sans-serif;
+    max-width:100%;
 }
 .container{
     max-width: 1000px;
